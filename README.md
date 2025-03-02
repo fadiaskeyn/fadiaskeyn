@@ -15,7 +15,6 @@
 
 [![Laravel, Node.js, JavaScript, TypeScript, AWS, GCP]([https://skillicons.dev/icons?i=laravel,nodejs,js,gcp,docker,jenkins](https://skillicons.dev/icons?i=laravel,nodejs,js,gcp,docker,jenkins,grafana,go,linux,vue,flutter,angular,supabase,firebase,redis,nginx,mysql,php,sass,tailwind,mongodb)))](https://skillicons.dev)
 
-
 ## 🏆 My Stats:
 
 <p>
